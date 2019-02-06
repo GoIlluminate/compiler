@@ -1,6 +1,6 @@
 {
   "name": "elm-compiler",
-  "version": "0.19.0-533a1991e26215b9bebb369457cff06842c13a49",
+  "version": "0.19.0-533a1991e26215b9bebb369457cff06842c13a49-3",
   "description": "",
   "main": "index.js",
   "scripts": {
