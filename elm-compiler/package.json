@@ -1,0 +1,19 @@
+{
+  "name": "elm-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://dev.goilluminate.com/repository/npm-hosted/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "bin",
+    "bin/elm"
+  ]
+}
